@@ -13,13 +13,13 @@ librosa.util.list_examples()
 
 output:  
 AVAILABLE EXAMPLES
---------------------------------------------------------------------
-brahms    	Brahms - Hungarian Dance #5
-choice    	Admiral Bob - Choice (drum+bass)
-fishin    	Karissa Hobbs - Let's Go Fishin'
-nutcracker	Tchaikovsky - Dance of the Sugar Plum Fairy
-trumpet   	Mihai Sorohan - Trumpet loop
-vibeace   	Kevin MacLeod - Vibe Ace
+--------------------------------------------------------------------  
+brahms    	Brahms - Hungarian Dance #5  
+choice    	Admiral Bob - Choice (drum+bass)  
+fishin    	Karissa Hobbs - Let's Go Fishin'  
+nutcracker	Tchaikovsky - Dance of the Sugar Plum Fairy  
+trumpet   	Mihai Sorohan - Trumpet loop  
+vibeace   	Kevin MacLeod - Vibe Ace  
 
 you can also play the audio files in jupyter notebook using the following set of commands:  
 from IPython import display
